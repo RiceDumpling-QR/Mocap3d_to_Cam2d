@@ -1,0 +1,48 @@
+<calibration third_party="false">
+	<results>
+		<offset x="0" y="0" z="0"/>
+	</results>
+	<cameras>
+		<camera active="1" serial="21" viewrotation="0" static_boxes="">
+			<transform x="-505.629" y="673.787" z="3448.05" r11="-0.917991" r12="0.38579" r13="0.0919744" r21="0.119162" r22="0.489488" r23="-0.86383" r31="-0.378277" r32="-0.782028" r33="-0.495317"/>
+			<intrinsic focallength="4.59121e-41" sensorMinU="0" sensorMaxU="1920" sensorMinV="0" sensorMaxV="1080" focalLengthU="1237.04" focalLengthV="1236.21" centerPointU="972.975" centerPointV="506.416" skew="0" radialDistortion1="-0.12467" radialDistortion2="0.114283" radialDistortion3="-0.0100676" tangentalDistortion1="-0.000694412" tangentalDistortion2="0.000665766"/>
+		</camera>
+		<camera active="1" serial="22" viewrotation="270" static_boxes="">
+			<transform x="1053.65" y="-90.587" z="8186.44" r11="0.380461" r12="-0.0350976" r13="0.924131" r21="-0.0781263" r22="-0.996927" r23="-0.00569803" r31="0.921491" r32="-0.0700311" r33="-0.382033"/>
+			<intrinsic focallength="4.59121e-41" sensorMinU="0" sensorMaxU="1920" sensorMinV="0" sensorMaxV="1080" focalLengthU="2139.87" focalLengthV="2138.55" centerPointU="967.724" centerPointV="518.245" skew="0" radialDistortion1="-0.0749605" radialDistortion2="0.0126639" radialDistortion3="0.242452" tangentalDistortion1="-0.000283447" tangentalDistortion2="0.00165544"/>
+		</camera>
+		<camera active="1" serial="23" viewrotation="90" static_boxes="">
+			<transform x="-475.732" y="588.221" z="7836.36" r11="0.343384" r12="-0.00169766" r13="-0.939193" r21="0.101664" r22="-0.994055" r23="0.0389669" r31="-0.933676" r32="-0.108863" r33="-0.34117"/>
+			<intrinsic focallength="4.59121e-41" sensorMinU="0" sensorMaxU="1920" sensorMinV="0" sensorMaxV="1080" focalLengthU="2130.39" focalLengthV="2129.28" centerPointU="987.517" centerPointV="513.986" skew="0" radialDistortion1="-0.0745918" radialDistortion2="-0.0522647" radialDistortion3="0.468492" tangentalDistortion1="-0.000346491" tangentalDistortion2="0.00152926"/>
+		</camera>
+		<camera active="1" serial="24" viewrotation="0" static_boxes="">
+			<transform x="2513.15" y="1843.17" z="5866.94" r11="0.885141" r12="-0.384615" r13="0.261909" r21="0.147391" r22="-0.302133" r23="-0.941802" r31="0.441363" r32="0.872231" r33="-0.210741"/>
+			<intrinsic focallength="4.59121e-41" sensorMinU="0" sensorMaxU="1920" sensorMinV="0" sensorMaxV="1080" focalLengthU="1245.51" focalLengthV="1244.42" centerPointU="954.465" centerPointV="512.03" skew="0" radialDistortion1="-0.123055" radialDistortion2="0.108701" radialDistortion3="-0.00472496" tangentalDistortion1="-0.000368904" tangentalDistortion2="0.000145102"/>
+		</camera>
+		<camera active="1" serial="25" viewrotation="0" static_boxes="">
+			<transform x="1581.34" y="-560.508" z="8576.24" r11="0.44927" r12="-0.889284" r13="-0.0856195" r21="-0.327513" r22="-0.0747772" r23="-0.941883" r31="0.831199" r32="0.451202" r33="-0.324847"/>
+			<intrinsic focallength="4.59121e-41" sensorMinU="0" sensorMaxU="1920" sensorMinV="0" sensorMaxV="1080" focalLengthU="1240.34" focalLengthV="1239.43" centerPointU="966.113" centerPointV="514.696" skew="0" radialDistortion1="-0.125632" radialDistortion2="0.112984" radialDistortion3="-0.00647004" tangentalDistortion1="-0.000707924" tangentalDistortion2="0.000264811"/>
+		</camera>
+		<camera active="1" serial="26" viewrotation="0" static_boxes="">
+			<transform x="369.946" y="217.514" z="6773.6" r11="-0.516456" r12="0.790856" r13="0.32836" r21="0.129909" r22="0.451381" r23="-0.882825" r31="-0.846402" r32="-0.413283" r33="-0.335858"/>
+			<intrinsic focallength="4.59121e-41" sensorMinU="0" sensorMaxU="1920" sensorMinV="0" sensorMaxV="1080" focalLengthU="1239.61" focalLengthV="1238.69" centerPointU="963.163" centerPointV="534.901" skew="0" radialDistortion1="-0.126016" radialDistortion2="0.114492" radialDistortion3="-0.00775887" tangentalDistortion1="-0.000500863" tangentalDistortion2="0.000261335"/>
+		</camera>
+		<camera active="1" serial="27" viewrotation="0" static_boxes="">
+			<transform x="-1753.69" y="66.7062" z="5895.35" r11="0.664249" r12="0.746516" r13="-0.0385593" r21="0.261561" r22="-0.280439" r23="-0.923547" r31="-0.700257" r32="0.60338" r33="-0.381541"/>
+			<intrinsic focallength="4.59121e-41" sensorMinU="0" sensorMaxU="1920" sensorMinV="0" sensorMaxV="1080" focalLengthU="1245.86" focalLengthV="1244.6" centerPointU="977.587" centerPointV="518.159" skew="0" radialDistortion1="-0.121923" radialDistortion2="0.106583" radialDistortion3="-0.00284333" tangentalDistortion1="-0.000516349" tangentalDistortion2="7.97165e-06"/>
+		</camera>
+		<camera active="1" serial="28" viewrotation="0" static_boxes="">
+			<transform x="235.626" y="1147.67" z="4906.88" r11="0.811625" r12="0.557277" r13="-0.175237" r21="0.0302385" r22="-0.339645" r23="-0.940067" r31="-0.583396" r32="0.757683" r33="-0.292516"/>
+			<intrinsic focallength="4.59121e-41" sensorMinU="0" sensorMaxU="1920" sensorMinV="0" sensorMaxV="1080" focalLengthU="1236.76" focalLengthV="1235.23" centerPointU="974.364" centerPointV="519.197" skew="0" radialDistortion1="-0.119767" radialDistortion2="0.104772" radialDistortion3="-0.00572713" tangentalDistortion1="6.93642e-05" tangentalDistortion2="0.000184905"/>
+		</camera>
+		<camera active="1" serial="29" viewrotation="0" static_boxes="">
+			<transform x="-1316.07" y="168.891" z="5346.58" r11="-0.769757" r12="-0.620935" r13="-0.148032" r21="-0.168558" r22="0.421391" r23="-0.891077" r31="0.61568" r32="-0.660961" r33="-0.429032"/>
+			<intrinsic focallength="4.59121e-41" sensorMinU="0" sensorMaxU="1920" sensorMinV="0" sensorMaxV="1080" focalLengthU="1241.16" focalLengthV="1239.65" centerPointU="956.238" centerPointV="527.679" skew="0" radialDistortion1="-0.122867" radialDistortion2="0.108706" radialDistortion3="-0.00606454" tangentalDistortion1="-0.000880745" tangentalDistortion2="-0.000110506"/>
+		</camera>
+		<camera active="1" serial="30" viewrotation="0" static_boxes="">
+			<transform x="899.664" y="1019.01" z="3523.94" r11="0.997473" r12="0.0650513" r13="-0.0285479" r21="-0.00453125" r22="-0.342779" r23="-0.939405" r31="-0.0708952" r32="0.937161" r33="-0.341618"/>
+			<intrinsic focallength="4.59121e-41" sensorMinU="0" sensorMaxU="1920" sensorMinV="0" sensorMaxV="1080" focalLengthU="1237.38" focalLengthV="1235.99" centerPointU="953.638" centerPointV="526.711" skew="0" radialDistortion1="-0.124675" radialDistortion2="0.11178" radialDistortion3="-0.00803153" tangentalDistortion1="-0.00117819" tangentalDistortion2="0.000343338"/>
+		</camera>
+	</cameras>
+</calibration>
+
